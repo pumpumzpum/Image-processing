@@ -1,2 +1,4 @@
 # Image-processing1
-Practice and Learning in Image processing with python
+Practice and Learning in CSS496 Digital Image processing with python
+
+Instructor Dr. Thittaporn Ganokratanaa
